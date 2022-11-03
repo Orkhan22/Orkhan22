@@ -8,7 +8,7 @@ i've been learning to code for 1 year, after switching careers.I started with HT
 
 * 🌍  I'm based in Azerbaijan
 * ✉️  You can contact me at [orkhanjafarli@gmail.com](mailto:orkhanjafarli@gmail.com)
-* 🧠  I'm learning Front- End Development, Back - End Developmen
+* 🧠  I'm learning Front- End Development, Back - End Development
 
 <a href="https://www.twitter.com/orkhanjafarli" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/orkhanjafarli?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
